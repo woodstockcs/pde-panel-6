@@ -1,1 +1,1 @@
-# pde-panel-6
+# pde-panels
