@@ -1,7 +1,7 @@
 int yPos;
 int yTotal;
 void setup() {
-  size(400, 600);
+  size(400, 400);
   background(150,255,150);
 
 
@@ -10,6 +10,7 @@ void setup() {
 }
 
 void draw() {
+translate(0, -200);
 
 frameRate(50);
 
