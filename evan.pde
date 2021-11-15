@@ -10,7 +10,7 @@ void setup() {
 }
 
 void draw() {
-translate(0, -200);
+translate(0, -100);
 
 frameRate(50);
 
